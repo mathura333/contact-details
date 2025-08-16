@@ -16,7 +16,7 @@ const ContactDetails: React.FC<ElementProps> = ({
   contactData,
 }) => {
   return (
-    <div className="w-80 bg-white border-r border-gray-200 flex flex-col h-full">
+    <div className="w-full md:w-80 bg-white md:border-r border-gray-200 flex flex-col h-full">
       <ContactHeader />
 
       <div className="p-4 border-b border-gray-100">

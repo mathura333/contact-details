@@ -12,7 +12,7 @@ interface ElementProps {
 
 const Conversations: React.FC<ElementProps> = ({ conversations }) => {
   return (
-    <div className="flex-1 bg-white border-r border-gray-200 flex flex-col h-full">
+    <div className="w-full md:flex-1 bg-white md:border-r border-gray-200 flex flex-col h-full">
       <ConversationsHeader />
 
       <div className="flex-1 overflow-y-auto">

@@ -10,7 +10,7 @@ interface NotesProps {
 
 const Notes: React.FC<NotesProps> = ({ notes }) => {
   return (
-    <div className="w-80 bg-white flex flex-col h-full">
+    <div className="w-full md:w-80 bg-white flex flex-col h-full">
       <NotesHeader />
 
       <div className="flex-1 overflow-y-auto p-4">
