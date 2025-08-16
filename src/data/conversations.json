@@ -1,0 +1,46 @@
+{
+  "conversations": [
+    {
+      "id": "1",
+      "sender": "Olivia John",
+      "recipient": "Me",
+      "timestamp": "5 min ago",
+      "subject": "Set up a new time to follow up on the mail chain issue that we talked about the...",
+      "messages": [
+        {
+          "id": "msg1",
+          "content": "Hey John,\n\nYou Order has reached.\nYour Urban Wellness LLP order has arrived in your city. Click the button below to track your order in real-time. Arriving on Tuesday, November 19th.",
+          "sender": "Olivia John",
+          "timestamp": "5 min ago",
+          "hasTrackingButton": true,
+          "trackingText": "Track Your Order"
+        },
+        {
+          "id": "msg2",
+          "content": "Please let me know",
+          "sender": "Olivia",
+          "timestamp": "11:44 AM",
+          "isTyping": false
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "sender": "Olivia John",
+      "recipient": "Me",
+      "timestamp": "5 min ago",
+      "subject": "Set up a new time to follow up on the mail chain issue that we talked about the...",
+      "messages": [
+        {
+          "id": "msg3",
+          "content": "Hey John,\n\nYou Order has reached.\nYour Urban Wellness LLP order has arrived in your city. Click the button below to track your order in real-time. Arriving on Tuesday, November 19th.",
+          "sender": "Olivia John",
+          "timestamp": "5 min ago",
+          "hasTrackingButton": true,
+          "trackingText": "Track Your Order"
+        }
+      ],
+      "isTyping": true
+    }
+  ]
+}

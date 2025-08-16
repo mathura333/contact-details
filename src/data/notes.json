@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "content": "Site Inspection completed. Heavy moss buildup on north side, moderate algae staining. Customer very satisfied with quote presentation. Premium package. Payment processed via credit card. Mentioned they also needs service.",
+      "timestamp": "1 hour ago",
+      "type": "inspection"
+    },
+    {
+      "id": "2",
+      "content": "Customer mentioned that his pet has anxiety issues during grooming. Recommend using a calm slot with less crowd. Make sure to allocate a calm handler for the next session.",
+      "timestamp": "2 hours ago",
+      "type": "note"
+    },
+    {
+      "id": "3",
+      "content": "Discussed package upgrade options. Customer is considering the premium monthly grooming plan. Follow up next week to check on their decision and offer any needed clarification, unless there is a change in course.",
+      "timestamp": "2 hours ago",
+      "type": "follow-up"
+    }
+  ]
+}
