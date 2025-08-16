@@ -9,20 +9,10 @@ A modern React-based contact management application with conversations and notes
 ![Desktop View](./screenshots/desktop-view.png)
 _Full desktop layout showing all three panels: Contact Details, Conversations, and Notes_
 
-### Features Showcase
-
-![Contact Details Panel](./screenshots/contact-details-panel.png)
-_Contact details with expandable folders and field types_
-
-![Conversations Panel](./screenshots/conversations-panel.png)
-_Real-time conversations with typing indicators and message tracking_
-
-![Notes Panel](./screenshots/notes-panel.png)
-_Notes management with different note types and timestamps_
-
 ### Mobile View
 
 ![Mobile View](./screenshots/mobile-view.png)
+
 _Mobile responsive design with tab navigation for switching between panels_
 
 ## 🚀 How to Run the App
